@@ -1,4 +1,4 @@
-name: flutter_flashcard
+name: webflashcard
 description: A Flutter flashcard application.
 publish_to: 'none'
 version: 1.0.0+1
@@ -25,11 +25,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/sounds/
-
-# Add this to your pubspec.yaml:
-flutter:
-  # ... existing config
   web:
-    generate: true
     base_href: "/webflashcard/"
-
