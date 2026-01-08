@@ -1,4 +1,4 @@
-# Flutter Flashcard App 🎴
+# Web Flashcard App 🎴
 
 A powerful, multi-language flashcard application with enhanced text-to-speech capabilities and multiple game modes for effective learning.
 
@@ -247,3 +247,4 @@ For issues, questions, or feature requests:
 ---
 
 **Happy Learning! 🎓**
+
