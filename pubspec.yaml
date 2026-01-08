@@ -1,4 +1,4 @@
-name: webflashcard
+name: flutter flashcard
 description: A Flutter flashcard application.
 publish_to: 'none'
 version: 1.0.0+1
@@ -27,3 +27,4 @@ flutter:
     - assets/sounds/
   web:
     base_href: "/webflashcard/"
+
