@@ -6,7 +6,7 @@ A powerful, multi-language flashcard application with enhanced text-to-speech ca
 
 ### 🎴 Core Flashcard Functionality
 - **Multi-sided cards** with custom headers
-- **Import/Export** decks in JSON format
+- **Import/Export** decks in csv format
 - **Local storage** for offline use
 - **Deck management** with create, edit, delete operations
 
@@ -247,4 +247,5 @@ For issues, questions, or feature requests:
 ---
 
 **Happy Learning! 🎓**
+
 
